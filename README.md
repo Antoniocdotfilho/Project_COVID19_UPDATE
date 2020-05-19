@@ -7,6 +7,7 @@ O projeto consiste em gerar informações sobre casos de coronavírus (COVID-19)
 Todas as informações contidas neste prrojeto são fornecidas pela API https://api.covid19api.com/
 # Página inicial
 ![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/1.png)
+![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/7.png)
 # Buscando dados BRASIL
 ![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/2.png)
 # Buscando dados USA
@@ -17,6 +18,7 @@ Todas as informações contidas neste prrojeto são fornecidas pela API https://
 ![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
 # INFORMATIVO 
 ![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
+![Responsive](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/8.png)
 # A API Gera dados sobre os seguintes países
 <h3>Dados Globais de todos os pa&iacute;ses<br />
 Afghanistan = AF<br />
