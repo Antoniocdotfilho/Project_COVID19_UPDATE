@@ -20,8 +20,8 @@ Todas as informações contidas neste prrojeto são fornecidas pela API https://
 # A API Gera dados sobre os seguintes países
 <br>Global
 <br>Afghanistan = AF
-Albania = AL 
-Algeria = DZ
+<br>Albania = AL 
+<br>Algeria = DZ
 Andorra = AD 
 Angola = AO 
 Antigua Barbuda = AG
