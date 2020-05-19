@@ -18,8 +18,8 @@ Todas as informações contidas neste prrojeto são fornecidas pela API https://
 # INFORMATIVO 
 ![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
 # A API Gera dados sobre os seguintes países
-Global
-Afghanistan = AF
+<br>Global
+<br>Afghanistan = AF
 Albania = AL 
 Algeria = DZ
 Andorra = AD 
