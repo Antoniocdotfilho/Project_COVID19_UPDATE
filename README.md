@@ -6,18 +6,18 @@ O projeto consiste em gerar informações sobre casos de coronavírus (COVID-19)
 # Dados
 Todas as informações contidas neste prrojeto são fornecidas pela API https://api.covid19api.com/
 # Página inicial
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/1.png)
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/7.png)
+![Página inicial A](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/1.png)
+![Página inicial B](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/7.png)
 # Buscando dados BRASIL
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/2.png)
+![Dados Brasil](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/2.png)
 # Buscando dados USA
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/3.png)
+![Dados USA](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/3.png)
 # INFORMATIVO sobre a Prevenção
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/4.png)
+![Prevenção](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/4.png)
 # INFORMATIVO sobre a Sintomas
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
+![Prevenção](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
 # INFORMATIVO 
-![Image description](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
+![Informativo](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/5.png)
 ![Responsive](https://raw.githubusercontent.com/Antoniocfilho/Project_COVID19_UPDATE/master/Image_Proj/8.png)
 # A API Gera dados sobre os seguintes países
 <h3>Dados Globais de todos os pa&iacute;ses<br />
