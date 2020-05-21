@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Antônio, Acf.github.io">
+  <meta name="author" content="Antônio, Antoniocfilho.github.io">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css.css" media="screen"/>
   <link rel="shortcut icon" href="./image/icon_mask.ico">
@@ -24,7 +24,7 @@ if (empty($Flag_IMG)) {
 }
 ?>
 <div class="topnav">
-  <a href="https://CoronavirusGlobalUpdate.github.io">Página Inicial</a>
+  <a href="Antoniocfilho.github.io">Página Inicial</a>
   <a href="#" data-toggle="modal" data-target="#sobre">Sobre</a>
   <a href="#" data-toggle="modal" data-target="#prevencao">Prevenção</a>
   <a href="#" data-toggle="modal" data-target="#sintomas">Sintomas</a>
@@ -48,7 +48,7 @@ if (empty($Flag_IMG)) {
     $api_url = "https://api.covid19api.com/summary";
     @$json_data = file_get_contents($api_url);
     if (empty($json_data)) {
-        header( "refresh:1;url=https://CoronavirusGlobalUpdate.github.io" );
+        header( "refresh:1;url=./index.php" );
         echo "<script type='text/javascript'>alert('Erro de conexão com a API que gera os dados, a página será atualizada');</script>";
         $NewConfirmed = 0; 
         $TotalConfirmed = 0;
@@ -229,7 +229,7 @@ if (empty($Flag_IMG)) {
       <div class="modal-body">
        <h4 style="text-align: center;"><span style="font-size:20px"><strong>Projeto&nbsp;Corona Virus Global Update</strong></span></h4>
         <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-        <p style="text-align: center;"><span style="font-size:20px"><strong>&copy; 2020&nbsp;- Ant&ocirc;nio | Acf.github.io</strong></span></p><h2>
+        <p style="text-align: center;"><span style="font-size:20px"><strong>&copy; 2020&nbsp;- Ant&ocirc;nio | Antoniocfilho.github.io</strong></span></p><h2>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -518,7 +518,7 @@ if (empty($Flag_IMG)) {
 </div>
 </div>
 <footer>
-  <div class="text-center">Copyright &copy; 2020 <span>Antônio | Acf.github.io </span></div>
+  <div class="text-center">Copyright &copy; 2020 <span>Antônio | Antoniocfilho.github.io </span></div>
 </footer>
 </body>
 </html>
