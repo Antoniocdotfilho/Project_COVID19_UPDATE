@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Antônio, Antoniocfilho.github.io">
+  <meta name="author" content="Antônio, Antoniodotc.github.io">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css.css" media="screen"/>
   <link rel="shortcut icon" href="./image/icon_mask.ico">
@@ -24,7 +24,7 @@ if (empty($Flag_IMG)) {
 }
 ?>
 <div class="topnav">
-  <a href="Antoniocfilho.github.io">Página Inicial</a>
+  <a href="Antoniodotc.github.io">Página Inicial</a>
   <a href="#" data-toggle="modal" data-target="#sobre">Sobre</a>
   <a href="#" data-toggle="modal" data-target="#prevencao">Prevenção</a>
   <a href="#" data-toggle="modal" data-target="#sintomas">Sintomas</a>
@@ -96,7 +96,7 @@ if (empty($Flag_IMG)) {
          $Country = $user_data->Countries[$i]->Country; 
          $CountryCode = $user_data->Countries[$i]->CountryCode;
          $CountryCode_IMG=$CountryCode;
-         $json_data_IMG = file_get_contents("http://raw.githubusercontent.com/Antoniocfilho/Project_Flags/master/countries.json"); 
+         $json_data_IMG = file_get_contents("http://raw.githubusercontent.com/Antoniodotc/Project_Flags/master/countries.json"); 
          $user_data_IMG = json_decode($json_data_IMG);
            for($i = 0; $i < 186; $i++){
              $var_IMG = $user_data_IMG->Countries[$i]->CountryCode;
@@ -229,7 +229,7 @@ if (empty($Flag_IMG)) {
       <div class="modal-body">
        <h4 style="text-align: center;"><span style="font-size:20px"><strong>Projeto&nbsp;Corona Virus Global Update</strong></span></h4>
         <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-        <p style="text-align: center;"><span style="font-size:20px"><strong>&copy; 2020&nbsp;- Ant&ocirc;nio | Antoniocfilho.github.io</strong></span></p><h2>
+        <p style="text-align: center;"><span style="font-size:20px"><strong>&copy; 2020&nbsp;- Ant&ocirc;nio | Antoniodotc.github.io</strong></span></p><h2>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -518,7 +518,7 @@ if (empty($Flag_IMG)) {
 </div>
 </div>
 <footer>
-  <div class="text-center">Copyright &copy; 2020 <span>Antônio | Antoniocfilho.github.io </span></div>
+  <div class="text-center">Copyright &copy; 2020 <span>Antônio | antoniodotc.github.io </span></div>
 </footer>
 </body>
 </html>
